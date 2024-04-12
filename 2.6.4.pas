@@ -4,7 +4,7 @@ a: array [1..100000] of integer;
 begin
   y:=0;
   z:=1;
-  writeln(' Длинна массива: ');
+  writeln(' Длина массива: ');
   read(n);
   write(' Введите эл-ты массива: ');
   for i:=1 to n do 
