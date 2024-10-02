@@ -2,7 +2,7 @@
 
 var
   x1, x2, o: real;
-  ch: char;
+  ch: 
 
 begin
   write(' Введите арифм. действие: ');
