@@ -19,5 +19,5 @@ begin
     o := x1 * x2;
   if (ch = '/') and (x2 <> 0) then 
     o := x1 / x2;
-  write(' Ответ: ', o:2:1);
+  write(' Ответ: ');
 end.
