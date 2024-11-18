@@ -1,6 +1,6 @@
 ﻿program gg;
 var y,z,n,i,k: integer;
-a: array [1..100000] of integer;
+a: array [1..100000000] of integer;
 begin
   y:=0;
   z:=1;

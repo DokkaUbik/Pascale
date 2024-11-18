@@ -6,7 +6,7 @@ begin
   readln(n);
   for i:=1 to n do 
     begin 
-    read(a[i]);
+    read(a[i+1]);
     end;
     for i:=1 to n do
     begin
