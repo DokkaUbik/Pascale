@@ -4,7 +4,7 @@ a,a1: array [1..1000000] of integer;
 begin 
   sk:=1;
   randomize;
-  writeln(' Длинна массивов: ');
+  writeln(' Длинны массивов: ');
   readln(n);
   for i:=1 to n do 
     begin 
