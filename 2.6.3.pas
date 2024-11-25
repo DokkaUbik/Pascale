@@ -14,7 +14,7 @@ begin
     sk:=a[1]*a1[1];
      for i:=2 to n do 
      begin
-       sk:=sk+a[i]*a1[i]
+       sk:=sk+a[i]*a1[i]sss
      end;
     writeln(' скалярное произведение двух n-мерных векторов: ',sk);
 end.
