@@ -4,7 +4,7 @@ a,a1: array [1..1000000] of integer;
 begin 
   sk:=1;
   randomize;
-  writeln(' Длинна массивов: ');
+  writeln('Длинна массивов: ');
   readln(n);
   for i:=1 to n do 
     begin 
@@ -16,5 +16,5 @@ begin
      begin
        sk:=sk+a[i]*a1[i]
      end;
-    writeln(' скалярное произведение двух n-мерных векторов: ',sk);
+    writeln('Скалярное произведение двух n-мерных векторов: ',sk);
 end.
