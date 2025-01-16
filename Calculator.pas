@@ -1,4 +1,4 @@
-﻿program gg;
+﻿program gg; 11
 
 var
   x1, x2, o: real;
