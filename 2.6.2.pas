@@ -13,7 +13,7 @@ begin
     if (a[i] < 0) then
             Write(a[i]:4);
     end;
-     for i:=1 to n do
+     for i:=1 
     begin
     if a[i]> 0 then 
        Write(a[i]:4);
