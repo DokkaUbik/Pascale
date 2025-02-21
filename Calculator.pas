@@ -1,4 +1,4 @@
-﻿program gg;
+﻿program alculator
 
 var
   x1, x2, o: real;
