@@ -1,4 +1,4 @@
-﻿program alculator
+﻿program Calculator
 
 var
   x1, x2, o: real;
