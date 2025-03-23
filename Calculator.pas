@@ -9,7 +9,7 @@ begin
   read(ch);
   write(' Введите 1 число: ');
   read(x1);
-  write(' Введите 2 число: ');
+  write(' Введите 1 число: ');
   read(x2);
   if ch = '+' then 
     o := x1 + x2;
@@ -19,5 +19,5 @@ begin
     o := x1 * x2;
   if (ch = '/') and (x2 <> 0) then 
     o := x1 / x2;
-  write(' Ответ: ', o:2:1);
+  write(' Ответ: ', o:2:2);
 end.
