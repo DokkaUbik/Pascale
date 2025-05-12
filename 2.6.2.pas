@@ -1,7 +1,7 @@
 ﻿program gg;
 var i,n: integer;
 a: array [1..1000000] of integer;
-begin 
+begin 43567346573456735673567
   writeln(' Введите кол-во чисел: ');
   readln(n);
   for i:=1 to n do 
