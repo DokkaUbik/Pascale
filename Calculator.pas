@@ -5,7 +5,7 @@ var
   ch: char;
 
 begin
-  write(' Введите арифм. действие: ');
+  write(' Введите арифм. действие: '); {comment}
   read(ch);
   write(' Введите 1 число: ');
   read(x1);
