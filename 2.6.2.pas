@@ -11,7 +11,7 @@ begin
     for i:=1 to n do
     begin
     if (a[i] < 0) then
-            Write(a[i]:4);
+            Write(a[i]:3);
     end;
      for i:=1 to n do
     begin
